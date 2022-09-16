@@ -20,6 +20,6 @@ Portfolio : [https://thibaudmallet.github.io/](https://thibaudmallet.github.io/)
 
 Contactez moi **thibaud.mallet171293@gmail.com**
 
-![align="center"](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThibaudMallet&theme=tokyonight)
+(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThibaudMallet&theme=tokyonight)
 
-[![align="center"](https://streak-stats.demolab.com?user=ThibaudMallet&theme=tokyonight)](https://git.io/streak-stats)
+(https://streak-stats.demolab.com?user=ThibaudMallet&theme=tokyonight)
