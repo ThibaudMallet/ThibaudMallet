@@ -27,3 +27,7 @@ Contactez moi **thibaud.mallet171293@gmail.com**
 <p style="text-align: center;">
 ![](https://streak-stats.demolab.com?user=ThibaudMallet&theme=tokyonight)
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ThibaudMallet&theme=tokyonight" />
+</p>
