@@ -9,17 +9,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudMallet&theme=tokyonight" />
 </p>
 
-Langages pratiqués : 
-- HTML
-- CSS
-- JS
-- PHP
-- SQL
-
 Je travaille actuellement sur :
 - Symfony
 - Twig
 - Doctrine
+
+| BACK END  | TECHNO     |
+| --------- | ---------- |
+|           | PHP <3     |
+|           | Symfony    |
+|           | Laravel    |
+| FRONT END | ---        |
+| --------- | ---------- |
+|           | HTML/CSS   |
+|           | Twig       |
+|           | Javascript |
+|           | Bootstrap  |
+
 
 Portfolio : [https://thibaudmallet.github.io/](https://thibaudmallet.github.io/)
 
