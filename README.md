@@ -13,7 +13,7 @@
   
 Portfolio : [https://thibaudmallet.github.io/](https://thibaudmallet.github.io/)
 
-Linkedin : [](https://linkedin.com/in/thibaudmallet/)
+Linkedin : [thibaudmallet](https://linkedin.com/in/thibaudmallet/)
 
 Contact : **thibaud.mallet171293@gmail.com**
 
