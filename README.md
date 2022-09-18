@@ -9,11 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudMallet&theme=tokyonight" />
 </p>
 
-Je travaille actuellement sur :
-- Symfony
-- Twig
-- Doctrine
-
+<center>
 | SPECIALISATION  | TECHNO                             |
 | --------------- | ---------------------------------- |
 | BACK END        | ---                                |
@@ -43,6 +39,7 @@ Je travaille actuellement sur :
 |                 | Visual Studio Code                 |
 |                 | Canva                              |
 |                 | Whimsical                          |
+</center>                           
 
 Portfolio : [https://thibaudmallet.github.io/](https://thibaudmallet.github.io/)
 
