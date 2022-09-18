@@ -3,7 +3,7 @@
 
 Portfolio : [https://thibaudmallet.github.io/](https://thibaudmallet.github.io/)
 
-Contactez moi **thibaud.mallet171293@gmail.com**
+Contact : **thibaud.mallet171293@gmail.com**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ThibaudMallet&theme=tokyonight" />
