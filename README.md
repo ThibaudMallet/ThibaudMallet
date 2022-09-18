@@ -14,9 +14,8 @@ Je travaille actuellement sur :
 - Twig
 - Doctrine
 
-<p align="center">
 | BACK END        | TECHNO                             |
-| --------------- | ---------------------------------- |
+|      :----:     |                 :----:             |
 |                 | PHP <3                             |
 |                 | Symfony                            |
 |                 | Laravel                            |
@@ -50,7 +49,6 @@ Je travaille actuellement sur :
 |                 | Visual Studio Code                 |
 |                 | Canva                              |
 |                 | Whimsical                          |
-</p>
 
 Portfolio : [https://thibaudmallet.github.io/](https://thibaudmallet.github.io/)
 
