@@ -14,8 +14,9 @@ Je travaille actuellement sur :
 - Twig
 - Doctrine
 
-| BACK END        | TECHNO                             |
+| SPECIALISATION  | TECHNO                             |
 | --------------- | ---------------------------------- |
+| BACK END        | ---                                |
 |                 | PHP <3                             |
 |                 | Symfony                            |
 |                 | Laravel                            |
