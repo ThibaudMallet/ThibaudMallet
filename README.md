@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour👋, Je m'appelle Thibaud <a href="https://linkedin.com/in/thibaud mallet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibaud mallet" height="30" width="40" /></a></h1>
+<h1 align="center">Bonjour👋, Je m'appelle Thibaud <a href="https://linkedin.com/in/thibaudmallet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibaud mallet" height="30" width="40" /></a></h1>
 <h3 align="center">Développeur Web</h3>
 
 <p align="center">
