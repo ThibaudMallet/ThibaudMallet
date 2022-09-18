@@ -2,11 +2,11 @@
 <h3 align="center">Développeur Web</h3>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThibaudMallet&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ThibaudMallet&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThibaudMallet&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudMallet&theme=tokyonight" />
 </p>
 
 Langages pratiqués : 
