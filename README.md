@@ -14,18 +14,43 @@ Je travaille actuellement sur :
 - Twig
 - Doctrine
 
+<p align="center">
 | BACK END  | TECHNO     |
 | --------- | ---------- |
 |           | PHP <3     |
 |           | Symfony    |
 |           | Laravel    |
+|           | ORM - Doctrine    |                    
 | FRONT END | ---        |
 | --------- | ---------- |
 |           | HTML/CSS   |
 |           | Twig       |
 |           | Javascript |
 |           | Bootstrap  |
-
+| BASE DE DONNEES | ---        |
+| --------- | ---------- |
+|           | SQL   |
+| PROGRAMMATION | ---        |
+| --------- | ---------- |
+|           | POO (Programmation Orientée Objet |   
+| ARCHITECTURE | ---        |
+| --------- | ---------- |
+|           | MVC   |
+|           | API REST       |
+| METHODE | ---        |
+| --------- | ---------- |
+|           | AGILE (Scrum)   |
+| CMS | ---        |
+| --------- | ---------- |
+|           | Wordpress   |                      
+| OUTILS    | ---        |
+| --------- | ---------- |
+|           | Git/Github |
+|           | Terminal Linux       |
+|           | Visual Studio Code |
+|           | Canva  |
+|           | Whimsical  |
+</p>
 
 Portfolio : [https://thibaudmallet.github.io/](https://thibaudmallet.github.io/)
 
