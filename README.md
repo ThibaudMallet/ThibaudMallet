@@ -9,7 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudMallet&theme=tokyonight" />
 </p>
 
-<center>
+<div align="center">
+
 | SPECIALISATION  | TECHNO                             |
 | --------------- | ---------------------------------- |
 | BACK END        | ---                                |
@@ -39,7 +40,8 @@
 |                 | Visual Studio Code                 |
 |                 | Canva                              |
 |                 | Whimsical                          |
-</center>                           
+
+</div>
 
 Portfolio : [https://thibaudmallet.github.io/](https://thibaudmallet.github.io/)
 
