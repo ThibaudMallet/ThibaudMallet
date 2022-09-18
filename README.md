@@ -15,6 +15,7 @@ Je travaille actuellement sur :
 - Doctrine
 
 | BACK END        | TECHNO                             |
+| --------------- | ---------------------------------- |
 |                 | PHP <3                             |
 |                 | Symfony                            |
 |                 | Laravel                            |
