@@ -5,6 +5,10 @@
   <img src="https://streak-stats.demolab.com?user=ThibaudMallet&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudMallet&theme=tokyonight" />
+</p>
+
 <div align="center">
   
 Portfolio : [https://thibaudmallet.github.io/](https://thibaudmallet.github.io/)
