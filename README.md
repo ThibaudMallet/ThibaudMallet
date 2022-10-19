@@ -28,6 +28,7 @@ Contact : **thibaud.mallet171293@gmail.com**
 |                 | HTML/CSS                           |
 |                 | Twig                               |
 |                 | Javascript                         |
+|                 | Angular                            |
 |                 | Bootstrap                          |
 | BASE DE DONNEES | ---                                |
 |                 | SQL                                |
@@ -44,6 +45,7 @@ Contact : **thibaud.mallet171293@gmail.com**
 |                 | Git/Github                         |
 |                 | Terminal Linux                     |
 |                 | Visual Studio Code                 |
+|                 | Insomnia                           |
 |                 | Canva                              |
 |                 | Whimsical                          |
 
